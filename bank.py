@@ -117,7 +117,7 @@ def menu():
     while True:
         try:
             menuResponse = int(input("""
-Welcome to Student Bank!
+Welcome to Mars Bank!
 1. Create account
 2. Deposit
 3. Withdraw
